@@ -2,7 +2,6 @@
 
 Bienvenue dans ce dépôt GitHub contenant un article de formation sur l'ingénierie de prompts pour les Large Language Models (LLM).
 
-**[https://github.com/ericfokou/prompt-engineering-formation/blob/main/formation-prompt-engineering.md](formation-prompt-engineering.md)**
 **[formation-prompt-engineering](https://github.com/ericfokou/prompt-engineering-formation/blob/main/formation-prompt-engineering.md)**
 
 
