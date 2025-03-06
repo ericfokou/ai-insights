@@ -2,7 +2,7 @@
 
 ---
 
-# 🎓 Formation Détaillée : Maîtriser l'Art du Prompt Engineering pour les LLM ✍️
+# 🎓 Welcome to AI Insights ✍️
 
 **[formation-prompt-engineering](https://github.com/ericfokou/prompt-engineering-formation/blob/main/formation-prompt-engineering.md)** 🔗: Cette page contient un article de formation 📰 sur l'ingénierie de prompts ✍️ pour les Large Language Models (LLM) 🗣️. Ce document a pour objectif de vous guider 🗺️ pas à pas dans l'univers fascinant ✨ des LLM 🗣️ et du prompt engineering ✍️.
 
